@@ -11,6 +11,19 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+}
 
-  background-color: beige;
+.app__divideLine {
+  width: 80%;
+  height: 1px;
+  margin-left: 10%;
+  background-color: rgb(200, 200, 200);
+}
+
+.app__header {
+  margin: 20px;
+}
+
+.app__headerTitle {
+  margin-bottom: 10px;
 }
