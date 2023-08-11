@@ -2,7 +2,7 @@
 
 **Installation Steps:**
 
-1. Clone the repository from the provided Git repository [URL](https://github.com/). 
+1. Clone the repository from the provided Git repository [URL](https://github.com/MatiMatik97/recruitment-task). 
 
 2. Open app folder and run command in the terminal ``` npm install ```.
 
